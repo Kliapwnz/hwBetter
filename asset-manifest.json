@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/hwBetter/static/css/main.88c3509c.css",
+    "main.js": "/hwBetter/static/js/main.59f9654a.js",
+    "static/js/787.66cb4309.chunk.js": "/hwBetter/static/js/787.66cb4309.chunk.js",
+    "static/media/kevin.png": "/hwBetter/static/media/kevin.93cf1df8806a403a58f4.png",
+    "static/media/Erling.png": "/hwBetter/static/media/Erling.c2dd65d109e4de44b77d.png",
+    "index.html": "/hwBetter/index.html",
+    "main.88c3509c.css.map": "/hwBetter/static/css/main.88c3509c.css.map",
+    "main.59f9654a.js.map": "/hwBetter/static/js/main.59f9654a.js.map",
+    "787.66cb4309.chunk.js.map": "/hwBetter/static/js/787.66cb4309.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88c3509c.css",
+    "static/js/main.59f9654a.js"
+  ]
+}
